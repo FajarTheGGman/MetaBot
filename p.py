@@ -1,6 +1,6 @@
 import os, sys
 
-print ("\033[0;34mMasukan UserName danvPassword:)")
+print ("\033[0;34mMasukan UserName dan Password:)")
 print ("\033[0;34m$Login Dulu Mhank")
 username = 'MetaBot'      
 password = 'fajarfirdaus'
