@@ -12,3 +12,6 @@ Tutor ?
 3.cd MetaBot
 
 4.sh metabot.sh
+
+# Buy Me Some Coffe :)
+![donate](https://raw.githubusercontent.com/FajarTheGGman/F-Tools/master/.images/donate.jpeg)
