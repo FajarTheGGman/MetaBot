@@ -1,6 +1,5 @@
 #!/usr/bin/bash
 #Copyright© 2019 By Fajar Firdaus
-#Jangan Di Recode cuk
 pkg install python2 -y
 pkg install toilet -y
 clear
@@ -14,13 +13,9 @@ yellow='\033[33;1m'
 echo $green"[$]=====================[$]"
 echo $blue"Author : Fajar Firdaus"
 echo $blue"Fb : Fajar Firdaus"
-echo $blue"IG : fajar_firdaus_7"
+echo $blue"IG : @FajarTheGGman"
 echo $blue"Github : FajarTheGGman"
 echo $green"[$]=====================[$]"
-sleep 1
-echo $red"Note : Kalo Gak Tau id pw nya pm gw"
-sleep 1
-python2 p.py
 sleep 1
 echo $red"Note : Pastikan Metasploit Sudah Terinstall"
 toilet -f future "[==MetaBot==]" --gay
